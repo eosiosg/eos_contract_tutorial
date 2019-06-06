@@ -1,11 +1,5 @@
 # EOS contract develop tutorial
 
-## Table of Contents
-1. [setup environment](#setup environment)
-1. [basic concepts](#basic concepts)
-1. [Appendix](#Appendix A: references)
-
-
 ## setup environment
 
 1. 下载IDE EOS studio https://www.eosstudio.io/
